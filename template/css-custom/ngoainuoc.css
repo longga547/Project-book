@@ -1,0 +1,7 @@
+.accordion {
+   border-radius: 0;
+}
+
+.card-img-top {
+   object-fit: cover;
+}
